@@ -31,3 +31,9 @@ Another bar chart showcased the top 10 longest flight routes by distance, reveal
 The primary dataset used for this analysis is the "air_travel_dataset.xlsx" which contains detailed information on San Francisco Airport flight data in March of 2020.
 
 https://drive.google.com/drive/folders/1pPiCs-x8QuVEfNehzqDQhmL36LwICPt8
+
+### Tools
+
+- Excel - Data Cleaning
+- SQL Server - Data Analysis
+- Tableau - Visualization
