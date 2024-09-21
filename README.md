@@ -35,3 +35,11 @@ The primary dataset used for this analysis is the "air_travel_dataset.xlsx" whic
 - Excel - Data Cleaning [Download Here](https://drive.google.com/drive/folders/1pPiCs-x8QuVEfNehzqDQhmL36LwICPt8)
 - SQL Server - Data Analysis
 - Tableau - Visualization
+
+### Data Cleaning/Preparation
+
+In the initial data preparation phase I performed the following tasks:
+
+Data loading and inspection, 
+Handled missing values, 
+Data cleaning and formatting
