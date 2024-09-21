@@ -27,4 +27,7 @@ A bar chart was used to visualize the top 10 busiest flight routes from SFO, off
 Another bar chart showcased the top 10 longest flight routes by distance, revealing key international or long-haul routes, essential for understanding the scope of SFO's global connections.
 
 ### Data Source 
+
+The primary dataset used for this analysis is the "air_travel_dataset.xlsx" which contains detailed information on San Francisco Airport flight data in March of 2020.
+
 https://drive.google.com/drive/folders/1pPiCs-x8QuVEfNehzqDQhmL36LwICPt8
