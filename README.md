@@ -40,6 +40,6 @@ The primary dataset used for this analysis is the "air_travel_dataset.xlsx" whic
 
 In the initial data preparation phase I performed the following tasks:
 
-Data loading and inspection, 
-Handled missing values, 
-Data cleaning and formatting
+1. Data loading and inspection.
+2. Handled missing values.
+3. Data cleaning and formatting.
